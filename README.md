@@ -12,6 +12,7 @@ The study combines control chart-based feature engineering with supervised machi
 
 ### SPC Statistics
 
+* Shewhart 
 * Exponentially Weighted Moving Average (EWMA)
 * Cumulative Sum Control Chart (CUSUM)
 
