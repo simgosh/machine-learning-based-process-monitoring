@@ -16,7 +16,7 @@ library(dplyr)
 library(pROC)
 
 # 1) DATA GENERATION
-
+set.seed(123)
 generate_data <- function(n = 1000, delta = 0) {
   data.frame(x = rnorm(n, mean = delta, sd = 1))
 }
